@@ -1,17 +1,16 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Nahuel Monti</h1>
 
-<!--
-**MontiNahuel/MontiNahuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desarrollador apasionado por la tecnología, el aprendizaje constante y la construcción de soluciones creativas.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning React.js
+### 💻 Sobre mí
+
+- 🎓 Estudiante de Licenciatura en Gestión de Tecnología de la Información en Universidad Argentina de la Empresa (UADE)
+- 🧠 Interesado en **Desarrollo Full Stack y Desarrollo Mobile**  
+- 🔧 Tecnologías que uso a diario: `React Native`, `React`, `Spring Boot`, `Firebase`
+- 📫 Cómo contactarme: [montinahuel@gmail.com](mailto:montinahuel@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nahuel-monti-5ba522241/)
+
+---
